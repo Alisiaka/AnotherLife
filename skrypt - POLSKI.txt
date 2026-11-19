@@ -1,0 +1,37 @@
+po kliknięciu w "new game":
+
+(czarny ekran)
+-A więc chcesz zagrać w grę, tak? W pierw musze poznać twe imię
+[pole do wpisywania (4 litery, angielskie) działa klawiatura]
+-A więc [imię], chcesz preżyć historię grając przez kilkanaście godzin? Dlaczego po prostu jej nie przewiniesz?
+ Masz teraz do wyboru, grać normalnie, albo zobaczyć najciekawsze, kluczowe momenty z gry i zakończenie tylko w kilka sekund!
+
+play normal   or   skip game
+
+1) skip game:
+(pokaz slajdów z platformówki "uratować księżniczkę")
+-Jesteś usatysfakcjonowany? Myślałeś, że tak to się skończy?
+ W sumie zakończenie było szczęśliwe... czekaj, co się dzieje? (glicze rozsypujący się ekran) błąd w kodzie!? print "spróbuję to naprawić!", Nie_MaM_nAt_DyM_KonTroLiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+
+(bluescreen)(restart gry) (nie wywalanie aplikacji ale specialny ekran do tego)
+
+2) play normal
+-(wzdechnięcie), Gdzie my jesteśmy? Czekaj! To mój projekt, chciałam ci go pokazać, ale nie jest w pełni ukończony, jest parę błędów... wiesz jak to jest... wczesny dostęp.
+- W każdym bądź razie, jesteśmy tutaj. Witaj w "Another life"!
+- To mój świat po którym cie oprowadzę, będę zawsze u twojego boku ku pomocy jako narrator. Możesz się rozejżeć, do tego używa się WSADa, myślę, że tak to działa...
+- Czekaj, co tu jest na ścianie? Tego tu nie było! Czy to... KREW?! Nie wpadajmy w paranoję, pewnie wylała się czerwona farba...
+- To mój pokój. Chowałam się tutaj 18 lat, kupa czasu, dużo pamiąek, także bolesnych.
+- Wiesz, może wyjdziemy na zewnątrz? Siedzenie tutaj przywołuje bolesne wspomnienia. Nie lubię domu rodzinnego.
+
+*lokacja: klatka przed domem, główna ulica*
+
+- Oooo, moje rodzinne miasto, zawsze jak tędy chodzę, mam wspomnienia z każdą ulicą. Wszystko jest takie duże, jak bym była znów małądziewczynką. Kiedyś to było...
+- Aaaaaaaaa KOTEK! Boże wiesz jak ja kocham koty? Mam nadzieję, że ty tak samo mocno, jak ja. Chcę go pogłaskać!
+- Jak zwykle uciekają ode mnie, ale mają tek mięciutkie futerko. Czy to nie są najbardziej doskonałe istoty na tym świecie? Koty były moimi jedynymi przyjaciółmi.
+- Mówią, że czarne koty przynoszą nieszczęście, ale widzę w nim światło. Zniknął... Jak? Czy mi się znów tylko wydawało? Dużo rzeczy ostatio mi się wydaje, a ich nie ma.
+- Czekaj, coś tu jest. (podnosi przedmiot) Zegarek, jaki vinteage. Lepiej znać godzinę, nawet jeśli się nie zgadza, jest jakiś punkt odniesienia. Lepiej wiedzieć cokolwiek, niż zatracić się w czasie i przestrzeni.
+- No coż... Gdzie my jesteśmy? Aaaa, już wiem, Unia lubelska, mój przyjaciel tutaj mieszkał, teraz nie mam już przyjaciela.
+- Może najdziemy tu coś ciekawego. Pozostawiam ci wolną rękę, mam nadzieję że nic sobie nie zrobisz.
+- Hmm, ściana... nie patrz tak na mnie, nic nie poradzę, że tutaj jest. Wiem, wiem ja tę grę projektuję, ale coś jest nie tak. Mówiłam, że nie mam nad tym kontroli, prawda?
+- Cały świat się psuje. Widziałeś te zgliczowane obiekty po drodze? Definitywnie to jakiś błąd, ale jak próbóję naparawić jeden, to pojawiają się kolejne! Chcę dobrze, ale wychodzi jak zwykle.
+- Chyba moża wejść do jakiegoś budynku. Spróbujmy!
